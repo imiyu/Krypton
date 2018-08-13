@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Ri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Docking 2015", "ComponentFactory.Krypton.Docking\ComponentFactory.Krypton.Docking 2015.csproj", "{E00FF125-CB44-480B-847E-7B3D27E481EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Design 2015", "ComponentFactory.Krypton.Design\ComponentFactory.Krypton.Design 2015.csproj", "{6004C98A-6642-4DCF-906C-E0ED3581978F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E00FF125-CB44-480B-847E-7B3D27E481EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E00FF125-CB44-480B-847E-7B3D27E481EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E00FF125-CB44-480B-847E-7B3D27E481EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6004C98A-6642-4DCF-906C-E0ED3581978F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6004C98A-6642-4DCF-906C-E0ED3581978F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6004C98A-6642-4DCF-906C-E0ED3581978F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6004C98A-6642-4DCF-906C-E0ED3581978F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

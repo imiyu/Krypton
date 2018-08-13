@@ -142,7 +142,7 @@ namespace ComponentFactory.Krypton.Toolkit
                 //                                
                 if (_ctrl == null)
                 {
-                    _ctrl = new Control() { Visible = false, BackColor = _barColour };
+                    _ctrl = new Control() { Visible = false, BackColor = _barColor };
 
                     //
                     // Get parent of dragbar control. Find a parent that
